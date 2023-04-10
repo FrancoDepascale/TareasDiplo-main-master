@@ -1,0 +1,40 @@
+h2{
+color:red;
+font-size: 30px;
+
+}
+h1{
+
+color: verde;
+background-color: blueviolet; /*coilor de fondo letra*/
+text-align: center; /*alinear titul*/
+text-transform: uppercase;
+}
+
+
+p{
+
+color: blue;
+line-height: 30px;
+
+}
+
+.destacados{
+Color: orange;
+
+font-weight: bold;/*peso en este caso negrita*/
+font-style: italic;
+font-family:  Arial;/*formato de la letras*/
+
+
+}
+
+#caja{
+
+background-color: yellow;
+width: 350px;
+height: 350px;
+border: 3px solid black;
+padding-left: 20px;
+
+}
