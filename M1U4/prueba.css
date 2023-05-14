@@ -5,10 +5,10 @@ font-size: 30px;
 }
 h1{
 
-color: verde;
+color: red;
 background-color: blueviolet; /*coilor de fondo letra*/
 text-align: center; /*alinear titul*/
-text-transform: uppercase;
+text-transform: initial;
 }
 
 
